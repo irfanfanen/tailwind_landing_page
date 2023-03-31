@@ -1,0 +1,29 @@
+nav
+--div
+-----a: img
+-----div: btn
+-----div: ul>li>a
+
+nav
+--div
+-----a: img
+-----div: btn
+-----div: ul>li>a
+
+max-w-screen-xl	
+https://tailwindcss.com/docs/max-width
+
+mx-auto > p-4
+https://tailwindcss.com/docs/container#using-the-container
+
+flex-wrap
+https://tailwindcss.com/docs/flex-wrap
+
+justify-between
+https://tailwindcss.com/docs/justify-content
+
+md:order-2
+https://tailwindcss.com/docs/order
+
+rounded-lg
+https://tailwindcss.com/docs/border-radius#pill-buttons
